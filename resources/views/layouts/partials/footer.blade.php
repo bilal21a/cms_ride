@@ -26,7 +26,7 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-12">
 
-                        <h3 class="pchl_info pt-4">PCHL Info</h3>
+                        <h3 class="pchl_info pt-4">SWIFT RIDE PRO Info</h3>
                         @for ($i = 1; $i < 4; $i++)
                             <a href="{{ $data['about_link_' . $i . ''] ?? null }}" style="text-decoration: none">
                                 <p class="pchl_info_p pt-lg-3 pt-md-3 pt-3 mb-2">{{ $data['about_name_' . $i] ?? null}}

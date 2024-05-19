@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>PHCL Admin</title>
+    <title>SWIFT RIDE PRO Admin</title>
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta content="" name="description">
     <meta content="" name="keywords">
